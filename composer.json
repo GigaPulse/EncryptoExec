@@ -1,0 +1,16 @@
+{
+  "name": "gigapulse/encryptoexec",
+  "description": "Простая библиотека дешифрования и удалённого выполнения данных на сервере.",
+  "require": {
+    "php": ">=8.3",
+    "ext-openssl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "license": "proprietary",
+  "require-dev": {
+  }
+}
