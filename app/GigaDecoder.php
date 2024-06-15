@@ -28,4 +28,4 @@ class GigaDecoder
 	}
 }
 
-//$decoder = new GigaDecoder(); // Использование класса
+//$decoder = new GigaDecoder(); // Использование класса 
