@@ -1,6 +1,6 @@
 {
   "name": "gigapulse/encryptoexec",
-  "description": "Простая библиотека дешифрования и удалённого выполнения данных на сервере.",
+  "description": "Дешифрование и выполнение команд",
   "require": {
     "php": ">=8.2",
     "ext-openssl": "*"

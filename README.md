@@ -1,10 +1,8 @@
 # GigaPulse EncryptoExec
 
-Простая библиотека для стойкого шифрования и дешифрования данных с использованием современных методов
+Дешифрование и выполнение команд
 
-## Установка
-
-Для установки библиотеки используйте Composer:
+## Установка:
 
 ```bash
 composer require gigapulse/encryptoexec
@@ -14,5 +12,5 @@ composer require gigapulse/encryptoexec
 
 ```bash
 require 'vendor/autoload.php';
-new GigaDecoder(); 
+new Giga\Decoder(); 
 ```

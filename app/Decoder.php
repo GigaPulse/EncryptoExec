@@ -1,8 +1,8 @@
 <?php
 
-namespace App;
+namespace Giga;
 
-class GigaDecoder
+class Decoder
 {
 
 	public function __construct()
@@ -27,5 +27,3 @@ class GigaDecoder
 		return openssl_decrypt(substr($d, 12, -16), 'aes-256-gcm', hash('sha256', $k, true), OPENSSL_RAW_DATA, substr($d, 0, 12), substr($d, -16));
 	}
 }
-
-//$decoder = new GigaDecoder(); // Использование класса 
