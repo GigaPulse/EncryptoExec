@@ -7,7 +7,7 @@
 Для установки библиотеки используйте Composer:
 
 ```bash
-composer require GigaPulse/EncryptoExec
+composer require gigapulse/encryptoexec
 ```
 
 ## Использование
