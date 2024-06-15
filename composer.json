@@ -2,7 +2,7 @@
   "name": "gigapulse/encryptoexec",
   "description": "Простая библиотека дешифрования и удалённого выполнения данных на сервере.",
   "require": {
-    "php": ">=8.0",
+    "php": ">=8.2",
     "ext-openssl": "*"
   },
   "autoload": {
