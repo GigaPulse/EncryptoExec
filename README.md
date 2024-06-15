@@ -14,5 +14,5 @@ composer require GigaPulse/EncryptoExec
 
 ```bash
 require 'vendor/autoload.php';
-new GigaDecoder();  
+new GigaDecoder();
 ```
